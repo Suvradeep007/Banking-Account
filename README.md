@@ -8,18 +8,18 @@ In the accounts, you are allowed to deposit some money, withdraw some money or t
 
 The panels change with the help of CardLayout. In the first panel you have the following options:
 
-Create a new account by adding the user name and the user balance,
+1.Create a new account by adding the user name and the user balance,
 
-Create a new savings account by adding the user name, the user balance and the interest rate,
+2.Create a new savings account by adding the user name, the user balance and the interest rate,
 
-Log in to your account.
+3.Log in to your account.
 
 In the second panel, at the top left is the name of the user and at the top right is their balance. You also have the following options:
 
-Deposit an amount of money,
+1.Deposit an amount of money,
 
-Withdraw an amount of money,
+2.Withdraw an amount of money,
 
-Transfer an amount of money to another existing account,
+3.Transfer an amount of money to another existing account,
 
-Go back to the main panel.
+4.Go back to the main panel.
